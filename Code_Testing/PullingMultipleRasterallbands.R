@@ -116,9 +116,9 @@ result$Date <- as.Date(result$ContentDate)
 
 
 # Authentication for accessing secured resources
-username = "fturnage@uwaterloo.ca"
-password = "x!6EaB2D,*qPDuf"
-
+username = 
+password = 
+  
 # Define authentication server URL
 auth_server_url <- "https://identity.dataspace.copernicus.eu/auth/realms/CDSE/protocol/openid-connect/token"
 
