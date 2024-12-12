@@ -1,4 +1,4 @@
-###Sentinel Small Waterbody Remote Sensing using R
+Sentinel Small Waterbody Remote Sensing using R
 
 
 R project code includes 2 main scripts in the Code_Testing folder
